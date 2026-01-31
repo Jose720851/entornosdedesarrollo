@@ -1,6 +1,7 @@
-public class Colaboracion {
-	public static void main(Strings[] args){
-		System.out.println("Versión inicial de los proyectos");
-		System.out.println("mensaje desde Ubuntu.");
-		}
-}
+package ejercicioCalculadora;
+ public class Colaboracion {
+ public static void main(String[] args) {
+ System.out.println("Versión inicial del proyecto.");
+ System.out.println("Mensaje desde Ubuntu.");
+ }
+ }

@@ -1,5 +1,4 @@
 package ejercicioCalculadora;
-
 public class colaboracion {
         public static void main(String[] args) {
             System.out.println("Versión inicial del proyecto.");
